@@ -22,6 +22,7 @@ export default function FirstPost() {
 
     <h1>¯\_(ツ)_/¯</h1>
     <h2><Link href="/">Back to home</Link></h2>
+    <h2><Link href="first-post/">click here</Link></h2>
 
     </Layout>
     </>
